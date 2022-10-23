@@ -1,2 +1,5 @@
 # python_learning
-Some python learning progress
+Some python learning records. 
+
+*Current progress*: 
+Linkedin Python Essential Training
